@@ -1,6 +1,4 @@
-# clusters
-
-### [LOGAN: Local Group Bias Detection by Clustering](https://arxiv.org/abs/2010.02867)
+# [LOGAN: Local Group Bias Detection by Clustering](https://arxiv.org/abs/2010.02867)
 [Jieyu Zhao](https://jyzhao.net), and [Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/), EMNLP 2020 (short)
 
 ----
