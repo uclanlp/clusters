@@ -7,6 +7,7 @@ In this paper, we argue that evaluating bias at the corpus level is not enough f
 --- 
 
 ### About our code
+- Download the scikit-learn package (0.22.2 in our case). And replace the corresponding codes using files under */cluster* folder.
 - Please refer to the [jupyter-notebook](./toxic_clustering_race-2nd2lastlayer.ipynb) for the demo of doing LOGAN on toxicity detection task w.r.t. RACE attribute.
 
 
